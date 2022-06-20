@@ -16,7 +16,6 @@ The purpose of this project is to find out the early readmissions of diabetic pa
 * Machine Learning
 * Data Visualization
 * Predictive Modeling
-* etc.
 
 ### Technologies
 * Python
