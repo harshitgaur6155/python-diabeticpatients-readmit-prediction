@@ -1,5 +1,3 @@
-# python-diabeticpatients-readmit-prediction
-
 # Prediction of Readmittance of Diabetic Patients using analysis of HbA1c value
 This project is a part of the coursework of Analytics System Technology (AST) at Northeastern University, Boston, MA, USA.
 
